@@ -6,7 +6,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
-#### Find me 
+### Find me 
 [![Github](https://img.shields.io/badge/-Github-f0f6fc?style=flat-square&logo=github&logoColor=000000)](https://github.com/Yuhanawa)
 <!--
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yuhanawa)
@@ -16,7 +16,7 @@
 -->
 
 
-#### Language
+### Language
 [![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=Python&logoColor=ffe770)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -24,10 +24,10 @@
 [![Java](https://img.shields.io/badge/-Java-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
 [![C#](https://img.shields.io/badge/-C#-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
 
-##### Will learn in the near
+#### Will learn in the near
 [![Js](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 
-##### Will Learn in the future
+#### Will Learn in the future
 [![npm](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)  
