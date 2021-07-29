@@ -22,7 +22,8 @@
 [![Html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![Css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![Java](https://img.shields.io/badge/-Java-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
-[![C#](https://img.shields.io/badge/-C#-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
+[![C#](https://img.shields.io/badge/-C Sharp-47A248?style=flat-square&logo=csharp&logoColor=white)]()
+[![WPF](https://img.shields.io/badge/-WPF-47A248?style=flat-square&logo=dotnet&logoColor=white)]()
 
 #### Will learn in the near
 [![Js](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
