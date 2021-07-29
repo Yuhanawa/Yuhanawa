@@ -7,7 +7,7 @@
 
 
 #### Find me 
-[![Github](https://img.shields.io/badge/-Github-f0f6fc?style=flat-square&logo=Github&logoColor=#161b22)](https://github.com/Yuhanawa)
+[![Github](https://img.shields.io/badge/-Github-f0f6fc?style=flat-square&logo=github&logoColor=000000)](https://github.com/Yuhanawa)
 <!--
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yuhanawa)
 [![](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/299377302)
@@ -30,7 +30,11 @@
 ##### Will Learn in the future
 [![npm](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)  
+
+
+
+
 
 
 ![GitHub license](https://img.shields.io/github/license/Yuhanawa/Yuhanawa?style=flat-square)
