@@ -7,7 +7,7 @@
 
 
 #### Find me 
-[![](https://img.shields.io/badge/-Github-white?style=flat-square&logo=twitter&logoColor=#161b22)](https://github.com/Yuhanawa)
+[![Github](https://img.shields.io/badge/-Github-white?style=flat-square&logo=Github&logoColor=#161b22)](https://github.com/Yuhanawa)
 <!--
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yuhanawa)
 [![](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/299377302)
