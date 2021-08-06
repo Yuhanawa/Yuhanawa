@@ -25,18 +25,23 @@
 [![Java](https://img.shields.io/badge/-Java-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
 [![C#](https://img.shields.io/badge/-CSharp-47A248?style=flat-square&logo=csharp&logoColor=white)]()
 [![WPF](https://img.shields.io/badge/-WPF-47A248?style=flat-square&logo=dotnet&logoColor=white)]()
+[![Js](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+
+#### learning
+[![C](https://img.shields.io/badge/-C-cb3837?style=flat-square&logo=c&logoColor=white)]()
 
 #### Will learn in the near
-[![Js](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![C++](https://img.shields.io/badge/-C++-cb3837?style=flat-square&logo=cpp&logoColor=white)]()
+[![rust](https://img.shields.io/badge/-Rust-cb3837?style=flat-square&logo=rust&logoColor=white)]()
+
 
 #### Will Learn in the future
 [![npm](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)  
 
-
-
-
+<br>
+<br>
 
 ![GitHub license](https://img.shields.io/github/license/Yuhanawa/Yuhanawa?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Yuhanawa/Yuhanawa?style=flat-square)
