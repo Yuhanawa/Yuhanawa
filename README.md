@@ -26,7 +26,7 @@
 [![C#](https://img.shields.io/badge/-CSharp-47A248?style=flat-square&logo=csharp&logoColor=white)]()
 [![WPF](https://img.shields.io/badge/-WPF-47A248?style=flat-square&logo=dotnet&logoColor=white)]()
 [![Js](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![C](https://img.shields.io/badge/-C-cb3837?style=flat-square&logo=c&logoColor=white)]()           
+[![C](https://img.shields.io/badge/-C-cb3837?style=flat-square&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/-C++-cb3837?style=flat-square&logo=cpp&logoColor=white)]()
 <!-- C and C++ are simply learning the basics and not going deeper. -->
 <!-- I will deep learning rust. -->
