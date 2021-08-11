@@ -33,7 +33,7 @@
 <!-- 2021/08/11 -->
 
 #### learning
-[![rust](https://img.shields.io/badge/-Rust-cb3837?style=flat-square&logo=rust&logoColor=white)]()
+[![rust](https://img.shields.io/badge/-Rust-cb3837?style=flat-square&logo=rust&logoColor=white)]()  
 Learning Progress: 3.2(data-types)/20.3 2021/08/11
 
 #### Will learn in the near
