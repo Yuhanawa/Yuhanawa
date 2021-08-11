@@ -30,9 +30,11 @@
 [![C++](https://img.shields.io/badge/-C++-cb3837?style=flat-square&logo=cpp&logoColor=white)]()
 <!-- C and C++ are simply learning the basics and not going deeper. -->
 <!-- I will deep learning rust. -->
+<!-- 2021/08/11 -->
 
 #### learning
 [![rust](https://img.shields.io/badge/-Rust-cb3837?style=flat-square&logo=rust&logoColor=white)]()
+Learning Progress: 3.2(data-types)/20.3 2021/08/11
 
 #### Will learn in the near
 
