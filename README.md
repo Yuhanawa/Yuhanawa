@@ -48,6 +48,8 @@ Golang Lua
 
 #### Tool
 VS VScode IDEA Rider  
+##### Fonts
+[JetbrainsMono](https://www.jetbrains.com/zh-cn/lp/mono/)
 
 
 <br>
