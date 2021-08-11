@@ -34,7 +34,7 @@
 
 #### learning
 [![rust](https://img.shields.io/badge/-Rust-cb3837?style=flat-square&logo=rust&logoColor=white)]()  
-Learning Progress: 3.2(data-types)/20.3 2021/08/11
+Learning Progress: defining-structs (5.1/20.3) 2021/08/11 21:05
 
 #### Will learn in the near
 
