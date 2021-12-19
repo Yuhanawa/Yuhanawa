@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=3261817910&site=qq&menu=yes)
 -->
 
-
+<!--
 ### Language&Other 
 ###### Sort by time (from about 2019.5 start)
 [![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=Python&logoColor=ffe770)](https://www.python.org/)
@@ -28,10 +28,9 @@
 [![Js](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![C](https://img.shields.io/badge/-C-cb3837?style=flat-square&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/-C++-cb3837?style=flat-square&logo=cpp&logoColor=white)]()
-<!-- C and C++ are simply learning the basics and not going deeper. -->
-<!-- I will deep learning rust. -->
+-->
 <!-- 2021/08/11 -->
-
+<!--
 #### learning
 [![rust](https://img.shields.io/badge/-Rust-cb3837?style=flat-square&logo=rust&logoColor=white)]()  
 Learning Progress: trait (10.2/20.3) 2021/08/19 13:41
@@ -44,10 +43,10 @@ Golang Lua
 [![vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)  
 
-
+-->
 
 #### Tool
-VS VScode IDEA Rider  
+VS VScode IDEA Rider Typora 
 ##### Fonts
 [JetbrainsMono](https://www.jetbrains.com/zh-cn/lp/mono/)
 
