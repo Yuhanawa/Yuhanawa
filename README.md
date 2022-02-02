@@ -1,13 +1,13 @@
 ### Hi there 👋
-![GitHub followers](https://img.shields.io/github/followers/Yuhanawa?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Yuhanawa?style=social)  
+<!-- ![GitHub followers](https://img.shields.io/github/followers/Yuhanawa?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Yuhanawa?style=social)   -->
 
 [![Yuhanawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuhanawa&show_icons=true&theme=dracula&hide_border=true)](https://github.com/Yuhanawa)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-
+<!-- 
 ### Find me 
-[![Github](https://img.shields.io/badge/-Github-f0f6fc?style=flat-square&logo=github&logoColor=000000)](https://github.com/Yuhanawa)
+[![Github](https://img.shields.io/badge/-Github-f0f6fc?style=flat-square&logo=github&logoColor=000000)](https://github.com/Yuhanawa) -->
 <!--
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Yuhanawa)
 [![](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/299377302)
@@ -44,7 +44,7 @@ Golang Lua
 [![node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)  
 
 -->
-
+<!-- 
 #### Tool
 VS VScode IDEA Rider Typora 
 ##### Fonts
@@ -60,7 +60,7 @@ VS VScode IDEA Rider Typora
 ![GitHub forks](https://img.shields.io/github/forks/Yuhanawa/Yuhanawa?style=flat-square")
 ![GitHub repo size](https://img.shields.io/github/repo-size/Yuhanawa/Yuhanawa?style=flat-square)
 
-
+ -->
 <!--
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
