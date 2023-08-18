@@ -1,21 +1,13 @@
-### Hi there 👋 <https://yuhanawa.github.io/>
+### 👋 Hi, I'm Yuhan  
 <!-- ![GitHub followers](https://img.shields.io/github/followers/Yuhanawa?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Yuhanawa?style=social)   -->
 
-[![Yuhanawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuhanawa&show_icons=true&theme=dracula&hide_border=true)](https://github.com/Yuhanawa)
+
+<details>
+<summary>Yuhan's GitHub stats</summary>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+  
+[![Yuhanawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuhanawa&show_icons=true&theme=dracula&hide_border=true&hide=contribs)](https://github.com/Yuhanawa)
+[![Yuhanawa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhanawa&layout=compact)](https://github.com/Yuhanawa)
 
-<!--
-**Yuhanawa/Yuhanawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
